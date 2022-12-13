@@ -6,5 +6,11 @@ def main(data:str):
     Returns:
         list: return answer
     """
+    x = "python"
+    i = 0
+    while i < len(x):
+        return "tamom boldi"
+    i += 1
+print(main(23, 23))
 
 # Read data from file
